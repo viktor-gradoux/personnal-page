@@ -9,7 +9,7 @@ title: Projects
 
 <a href="Master_thesis.pdf" target="_blank">Master thesis</a>
 
-*under the supervision of Mathieu Grobéty (CREA) and Brendan Berthold*
+*under the supervision of Mathieu Grobéty (CREA) and Brendan Berthold (PhD UNIL)*
 
 **Abstract**:
 
