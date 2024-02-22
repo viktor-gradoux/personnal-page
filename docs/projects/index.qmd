@@ -41,7 +41,7 @@ Cette étude, mandatée par la Fondation de l'attractivité du Canton de Genève
 
 *with Mora Klimberg (IATA) and Pasha Mammadov (International Federation of Red Cross)*
 
-**Abtract**:
+**Abstract**:
 
 This paper explains how to forecast monthly Swiss CPI Inflation for the next 3 years from October 2022 using disaggregated CPI components : ARDL modeling European imported inflation since the EU is one of the key partners of Switzerland, ARMA modeling domestic inflation and ECM capturing only oil products volatile part. Then, we aggregate all these three CPI components into one combined model taking into account their past respective weights over time. Finally, we assess the out-of-sample performance of our combined model. It does not beat the AR(1) benchmark over short horizons (up to 3 months) but performs relatively well over the long term even if our combined model is statistically similar to the benchmark over most horizons.
 
@@ -56,7 +56,7 @@ This paper explains how to forecast monthly Swiss CPI Inflation for the next 3 y
 
 *with Lisa Wenger (Swiss National Bank) and Dario Vacchini (ETH Zurich)*
 
-**Abtract**:
+**Abstract**:
 
 In this paper we investigate the impact of monetary shocks in two Eastern European economies: Romania
 and Slovakia. We implement two structural VAR models to analyze the effect of the policy rate of the
