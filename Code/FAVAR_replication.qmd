@@ -726,6 +726,7 @@ vars::fanchart(FAVAR_prediction, names = "SWGDPD") # Swiss GDP is winsorized dur
 
 Our unconditional forecasts (i.e the optimal $h$-step ahead forecasts) can be rewritten as :
 
+```{=tex}
 \begin{eqnarray}
 \mathbb{E} 
 \begin{pmatrix}
@@ -740,7 +741,7 @@ F^*_{{t-j+h} \vert t}
 \end{pmatrix}
 \label{fcst_uncond}
 \end{eqnarray}
-
+```
 where $Y^*_{t-j+h\vert t}=Y_{t-j+h}$ and $F^*_{t-j+h\vert t}=F_{t-j+h}$ for $h \leq j$
 
 Using equation this equation, we can forecast the Swiss GDP growth rate in Switzerland for any horizon from 1 (one quarter ahead) to 12 (twelve quarters ahead).
@@ -755,10 +756,11 @@ $$e_{t,h}^2 = (y_{t+h} - \widehat{y}_{t+h \vert t})^2 $$where $y_{t+h}$ is the r
 
 Then, Mean Squared Forecast Errors (MSFE) are computed as follow :
 
+```{=tex}
 \begin{eqnarray}
 MSFE_h = \frac{1}{P} \sum_{t=R}^{T-h} e_{t,h}^2
 \end{eqnarray}
-
+```
 where $P=T-h-R+1$.
 
 Therefore, in order to compute the performance of our model relatively to the six benchmarks, we compute the ratio of the relative MSFE, which is defined as :\
