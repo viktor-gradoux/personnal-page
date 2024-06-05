@@ -20,9 +20,9 @@ about:
 
 # Welcome to my website !
 
-I hold a dual master's degree in Economics and Business Administration from the University of Lausanne (HEC) and aspire to pursue a Ph.D. program in Macroeconomics next year. I have advanced programming (R addict and Matlab/Dynare enthusiast) and econometrics/modelling skills.
+I hold a dual master's degree in Economics and Business Administration from the University of Lausanne (HEC). Starting in August 2024, I will be a PhD candidate at the University of Lausanne (HEC) and will participate in the Swiss Program for Beginning Doctoral Students at the Study Center Gerzensee (Foundation of the Swiss National Bank) during my first year. I have advanced programming (R addict and Matlab/Dynare enthusiast) and econometrics/modelling skills.
 
-My main research interests include climate change, international macroeconomics, macro-finance, forecasting, time series analysis.
+My main research interests include climate change, international macroeconomics, macro-finance, forecasting, time series analysis and machine learning models.
 
 My experience includes research positions as a trainee at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html), at [the National Bank of Romania](https://www.bnr.ro/National-Bank-of-Romania-1144-Mobile.aspx) and at the [Swiss Institute of Applied Economics (CREA)](https://www.unil.ch/crea/home.html). I was also economic consultant intern at [Panthéon Recherche](https://www.pantheon-recherche.com/).
 
