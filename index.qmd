@@ -20,7 +20,7 @@ about:
 
 # Welcome to my website !
 
-I hold a dual master's degree in Economics and Business Administration from the University of Lausanne (HEC). Starting in August 2024, I will be a PhD candidate at the University of Lausanne (HEC) and will participate in the Swiss Program for Beginning Doctoral Students at the Study Center Gerzensee (Foundation of the Swiss National Bank) during my first year. I have advanced programming (R addict and Matlab/Dynare enthusiast) and econometrics/modelling skills.
+I hold a dual master's degree in Economics and Business Administration from the University of Lausanne (HEC). I have advanced programming (R addict and Matlab/Dynare enthusiast) and econometrics/modelling skills.
 
 My main research interests include climate change, international macroeconomics, macro-finance, forecasting, time series analysis and machine learning models.
 
