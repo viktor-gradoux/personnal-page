@@ -4,7 +4,7 @@ title: "Code"
 
 On this page, you will find a selection of code snippets (with tutorials) that played pivotal roles in both my master's degree studies and my research experiences in different institutions.
 
-### - [Forecasting a small open economy with a FAVAR in R: Evidence from Switzerland](FAVAR_replication.pdf)
+### - [Forecasting a small open economy with a FAVAR in R: Evidence from Switzerland](FAVAR_replication.html)
 
 
 
